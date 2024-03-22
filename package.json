@@ -1,0 +1,26 @@
+{
+  "name": "quoitaque",
+  "version": "1.0.0",
+  "description": "Shared TypeScript configuration",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FloydMarvin/quoitaque.git"
+  },
+  "author": "MaryWard",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=10.4.0"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "incidunt",
+    "perspiciatis",
+    "config",
+    "configuration",
+    "fastify"
+  ]
+}
